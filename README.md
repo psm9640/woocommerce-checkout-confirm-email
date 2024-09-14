@@ -3,6 +3,8 @@
 
 This repository adds a custom "Confirm Email Address" field to the WooCommerce checkout form, ensuring that the customer enters matching email addresses for validation.
 
+WooCommerce, by default, does not include an out-of-the-box email verification or confirmation field in the checkout process. It only provides a single field for the billing email address, and there is no built-in feature to confirm or verify that the entered email is correct. Since this single email entry point is often tied to CRM or email campaign providers, shipping services, etc. As a result, getting a bad email address not only becomes a customer service pain point, but it also prevents a merchant's ability to remarket.
+
 ## Features
 
 - Adds a "Verify Email Address" field after the "Email Address" field in WooCommerce checkout.
