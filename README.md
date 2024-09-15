@@ -7,7 +7,7 @@ WooCommerce, by default, does not include an out-of-the-box email verification o
 
 ## Case Study
 
-On one WooCommerce store that I was deeply involved with the development on, the email confirmation feature was deoloyed and an alert added for cases where customers attempted to enter mismatched email addresses at checkout. Over the course of 20,000 orders, this solution prevented more than 3% of orders from being submitted with incorrect email addresses. 
+As the lead developer on a WooCommerce store doing over 7 figrues in sales annually, the email confirmation feature was deployed and an alert added for cases where customers attempted to enter mismatched email addresses at checkout. Over the course of 20,000 orders, this solution prevented more than 3% of orders from being submitted with incorrect email addresses. 
 
 ## Features
 
